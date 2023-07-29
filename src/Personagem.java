@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Personagem {
+public class  Personagem {
     private String nome;
     private String raca;
     private String classe;
